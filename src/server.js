@@ -2,7 +2,8 @@
  * Este archivo es responsable de iniciar el servidor y escuchar en un puerto específico. 
  * Es el punto de entrada principal de tu aplicación y su responsabilidad principal es 
  * arrancar el servidor.
- *
+ *Basicamente inicia y levanta la api
+ Arranca el servidor y conecta a la base de datos.
  */
 
 const app = require("./app");

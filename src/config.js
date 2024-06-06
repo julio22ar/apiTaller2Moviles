@@ -1,3 +1,8 @@
+/**
+ * Este archivo conecta la APi con mongo
+ * Gestiona la configuración de la base de datos.
+ */
+
 const mongoose = require('mongoose');
 require('dotenv').config();
 
